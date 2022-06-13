@@ -6,12 +6,12 @@ Basic-Authentication
 
 # Heruko
 
-[Heroku Link](www.google.com)
+[Heroku Link](https://jesos-basic-auth.herokuapp.com/)
 
 # Pull Request
 
-[PR](www.google.com)
+[PR](https://github.com/ft7e/basic-auth/pull/1)
 
 # Actions
 
-[Actions](www.google.com)
+[Actions](https://github.com/ft7e/basic-auth/actions)
